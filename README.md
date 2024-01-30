@@ -1,5 +1,6 @@
+
 ### Hi, my name is Wigor. 
-Who am I and what I do:
+Who am I and what do I do:
 
 [![Instagram Badge](https://img.shields.io/badge/-Wigor.png-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/seu_usuario/)](https://www.instagram.com/wigor.png/#)
 [![LinkedIn Badge](https://img.shields.io/badge/-Wigor-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu_nome/)](https://www.linkedin.com/in/wigor-r-0b6aaa20b)
@@ -21,3 +22,5 @@ Who am I and what I do:
 ![BlenderBadge](https://img.shields.io/badge/-Blender-black?logo=blender&style=for-the-badge
 )
 
+
+"Em busca de desenvolver a habilidade de enxergar padrões"
