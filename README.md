@@ -21,6 +21,9 @@ Who am I and what do I do:
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=for-the-badge&logoColor=white&labelColor=black&color=black&height=20)
 ![BlenderBadge](https://img.shields.io/badge/-Blender-black?logo=blender&style=for-the-badge
 )
+[![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-green?logo=coreldraw)](https://www.coreldraw.com)
+
+
 
 
 "Em busca de desenvolver a habilidade de enxergar padrões"
